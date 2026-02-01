@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
         // the command line to start the app).
         //
         // Notice that the counter didn't reset back to zero; the application
-        // state is not lost during the reload. To reset the state, use hot
+        // states is not lost during the reload. To reset the states, use hot
         // restart instead.
         //
         // This works for code too, not just values: Most code changes can be
@@ -43,7 +43,7 @@ class MyHomePage extends StatefulWidget {
   // that it has a State object (defined below) that contains fields that affect
   // how it looks.
 
-  // This class is the configuration for the state. It holds the values (in this
+  // This class is the configuration for the states. It holds the values (in this
   // case the title) provided by the parent (in this case the App widget) and
   // used by the build method of the State. Fields in a Widget subclass are
   // always marked "final".
